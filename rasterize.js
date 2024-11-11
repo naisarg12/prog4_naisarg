@@ -1,7 +1,7 @@
 /* GLOBAL CONSTANTS AND VARIABLES */
 
 /* assignment specific globals */
-const INPUT_TRIANGLES_URL = "https://raw.githubusercontent.com/naisarg12/prog4_naisarg/refs/heads/main/triangles.json"; // triangles file
+const INPUT_TRIANGLES_URL = "https://raw.githubusercontent.com/NCSUCGClass/prog4/refs/heads/main/triangles.json"; // triangles file
 var defaultEye = vec3.fromValues(0.5,0.5,-0.5); // default eye position in world space
 var defaultCenter = vec3.fromValues(0.5,0.5,0.5); // default view direction in world space
 var defaultUp = vec3.fromValues(0,1,0); // default view up vector
